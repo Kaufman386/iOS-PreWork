@@ -37,6 +37,7 @@ GIF created with [Imgur](https://imgur.com/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+-Saving Data, especially the tipControllerIndex, across app restarts
 
 ## License
 
