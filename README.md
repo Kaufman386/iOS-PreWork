@@ -24,6 +24,7 @@ The following **additional** features are implemented:
 
 - [x] Added a Dark Mode theme
 - [x] Created a slider displaying how many people are splitting the tip
+- [x] Created an app logo
 
 ## Video Walkthrough
 
