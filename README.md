@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/pfC7ezG.gif)
+![](https://i.imgur.com/3ucRAoq.gif)
+
 
 
 GIF created with [Imgur](https://imgur.com/).
